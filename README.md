@@ -1,4 +1,35 @@
-# Welcome to your Expo app 👋
+# Rushly
+
+<p align="center">
+  <img src="logo.png" alt="Rushly Logo" width="200" />
+</p>
+
+**Rushly** is a fast and efficient ride-booking app. Currently, the project is in early development, and core features are being built.
+
+## Features (In Progress)
+
+- User registration & login
+- Ride booking
+- Real-time GPS tracking
+- Fare calculation
+- Payment integration
+
+## Tech Stack
+
+- **Frontend:** React Native
+- **Backend:** Node.js (Express)
+- **Database:** MongoDB
+- **Real-time:** Socket.io
+- **Mapping:** Google Maps API
+
+## Setup
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/your-username/rushly.git
+   cd rushly
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
